@@ -26,6 +26,7 @@ router.post('/', async (req, res) => {
             success: true,
             status: {
                 code: 200,
+                number: prophecy.index,
                 love: prophecy.love,
                 career: prophecy.career,
                 money: prophecy.money

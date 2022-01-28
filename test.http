@@ -3,7 +3,7 @@ POST http://localhost:3000/api/wishes
 Content-type: application/json
 
 {
-    "message": "cac"
+    "message": "Anh thật sự thích em"
 }
 
 ###
@@ -11,5 +11,5 @@ POST http://localhost:3000/api/prophecies
 Content-type: Application/json 
 
 {
-    "date": "17/07/2006"
+    "date": "17/08/2006"
 }
