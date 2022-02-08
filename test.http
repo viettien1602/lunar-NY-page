@@ -3,7 +3,7 @@ POST http://localhost:3000/api/wishes
 Content-type: application/json
 
 {
-    "message": "Anh thật sự thích em"
+    "message": "Em muốn nói với anh rằng anh là cả cuộc đời em. Yêu anh tận sâu thẳm trong trái tim. Em ko thể thiếu anh. Anh là tình yêu của em. Năm mới em chúc cho tình yêu của chúng mình mãi đẹp như thủa ban đầu luôn cháy bỏng anh nhé!"
 }
 
 ###
